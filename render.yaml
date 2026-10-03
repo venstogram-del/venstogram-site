@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: venstogram
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
