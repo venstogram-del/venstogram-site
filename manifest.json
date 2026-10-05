@@ -1,7 +1,7 @@
 {
   "name": "Venstogram",
   "short_name": "Venstogram",
-  "description": "Next-gen social network with live streams, gifts, and earnings",
+  "description": "Next-gen digital ecosystem for content creators and communities",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
@@ -58,10 +58,10 @@
       "icons": [{ "src": "icons/icon-96.png", "sizes": "96x96" }]
     },
     {
-      "name": "Прямой эфир",
-      "short_name": "Эфир",
-      "description": "Перейти к прямым эфирам",
-      "url": "/#streams",
+      "name": "О платформе",
+      "short_name": "Инфо",
+      "description": "Узнать больше о платформе Venstogram",
+      "url": "/#about",
       "icons": [{ "src": "icons/icon-96.png", "sizes": "96x96" }]
     }
   ]
